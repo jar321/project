@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{54539662-538D-49D5-B72F-D8D65F3152AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+    <Files>
+      <File FileName="obj/project.assets.json" Line="16" Column="21" />
+      <File FileName="Travelogram.csproj" Line="4" Column="25" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="21" Column="17" />
+      <File FileName="Program.cs" Line="50" Column="1" />
+      <File FileName="Areas/Identity/Pages/Account/Login.cshtml" Line="4" Column="37" />
+      <File FileName="Views/_ViewImports.cshtml" Line="6" Column="1" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="19" Column="1" />
+      <File FileName="Areas/Identity/Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="36" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Travelogram" expanded="True">
+            <Node name="Travelogram" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True">
+                    <Node name="Account" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Travelogram PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

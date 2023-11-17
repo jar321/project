@@ -1,0 +1,58 @@
+@model IEnumerable<Travelogram.Models.Post>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Blog Posts</h1>
+
+    @foreach (var item in Model)
+    {
+        <div class="card mb-4">
+            <div class="card-header">
+                <h2>@Html.DisplayFor(modelItem => item.Heading)</h2>
+            </div>
+            <div class="card-body">
+                @if (!string.IsNullOrEmpty(item.FileName))
+                {
+                    <img class="post-image img-fluid mb-3" src="@Url.Content("~/uploads/" + item.FileName)" alt="@item.Heading" />
+                }
+                <p>@Html.DisplayFor(modelItem => item.Content)</p>
+
+                <!-- Like and Dislike Buttons -->
+                <div class="mt-3 mb-3">
+                    <form asp-action="Like" method="post" style="display: inline;">
+
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-primary">
+                            Like <span class="badge bg-secondary">@item.Likes</span>
+                        </button>
+                    </form>
+                    <form asp-action="Dislike" method="post" style="display: inline;">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-danger">
+                            Dislike <span class="badge bg-secondary">@item.Dislikes</span>
+                        </button>
+                    </form>
+                </div>
+            </div>
+            <div class="card-footer">
+                <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    .post-image {
+        max-width: 60%; /* Reducing the maximum width to 60% of its container */
+        max-height: 300px; /* Setting a maximum height */
+        display: block;
+        margin: 0 auto; /* To center the image */
+        border-radius: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+</style>

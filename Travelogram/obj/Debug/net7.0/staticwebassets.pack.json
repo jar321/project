@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Travelogram.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Travelogram.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\lib\\qrcode.js",
+      "PackagePath": "staticwebassets\\lib\\qrcode.js"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\09370132-24d0-4647-8cbc-0c926d6a05ff_TAM_3520-baa295320b7c40f3b1c429d8418bd106.jpg",
+      "PackagePath": "staticwebassets\\uploads\\09370132-24d0-4647-8cbc-0c926d6a05ff_TAM_3520-baa295320b7c40f3b1c429d8418bd106.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\2191f6f1-026d-4c18-b42b-9bacb2e011c6_new doc 2020-02-21 10.35.04_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2191f6f1-026d-4c18-b42b-9bacb2e011c6_new doc 2020-02-21 10.35.04_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\385ea522-738b-47e4-97ad-9a016d82463c_Screenshot 2023-10-06 at 10.10.00 PM.png",
+      "PackagePath": "staticwebassets\\uploads\\385ea522-738b-47e4-97ad-9a016d82463c_Screenshot 2023-10-06 at 10.10.00 PM.png"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\59380763-4a1e-4115-89d2-051af68dff80_Nature-Landscape-Background-Graphics-67487129-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\59380763-4a1e-4115-89d2-051af68dff80_Nature-Landscape-Background-Graphics-67487129-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\9210b275-02dd-49fb-a14a-1f0315f686ee_Screenshot 2023-09-17 at 7.40.55 PM.png",
+      "PackagePath": "staticwebassets\\uploads\\9210b275-02dd-49fb-a14a-1f0315f686ee_Screenshot 2023-09-17 at 7.40.55 PM.png"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\94671a25-79cc-414f-8f41-ec1e06ec6e4b_Fetch leak.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\94671a25-79cc-414f-8f41-ec1e06ec6e4b_Fetch leak.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\9bf8681e-a6e0-4a04-8f41-343e2549c171_new doc 2020-02-21 10.35.04_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9bf8681e-a6e0-4a04-8f41-343e2549c171_new doc 2020-02-21 10.35.04_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\b66a57fa-2c22-44e1-8ef8-38ca50792137_graphviz.svg",
+      "PackagePath": "staticwebassets\\uploads\\b66a57fa-2c22-44e1-8ef8-38ca50792137_graphviz.svg"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\b7476b1d-809f-4618-8de9-43c361913901_Nature-Landscape-Background-Graphics-67487129-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b7476b1d-809f-4618-8de9-43c361913901_Nature-Landscape-Background-Graphics-67487129-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\c34d74c8-227e-4ee4-88d4-29450c3b4501_Screenshot 2023-10-06 at 10.10.00 PM.png",
+      "PackagePath": "staticwebassets\\uploads\\c34d74c8-227e-4ee4-88d4-29450c3b4501_Screenshot 2023-10-06 at 10.10.00 PM.png"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\ca233fd4-dc05-4d8a-ba66-a8277eb3673c_graphviz.svg",
+      "PackagePath": "staticwebassets\\uploads\\ca233fd4-dc05-4d8a-ba66-a8277eb3673c_graphviz.svg"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\e31e3db6-db4e-4b0a-85fa-04ae208e554a_Screenshot 2023-09-17 at 8.07.43 PM.png",
+      "PackagePath": "staticwebassets\\uploads\\e31e3db6-db4e-4b0a-85fa-04ae208e554a_Screenshot 2023-09-17 at 8.07.43 PM.png"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\ee773c91-abbb-4a54-8600-f946f2970dbf_Screenshot 2023-09-17 at 7.57.43 PM.png",
+      "PackagePath": "staticwebassets\\uploads\\ee773c91-abbb-4a54-8600-f946f2970dbf_Screenshot 2023-09-17 at 7.57.43 PM.png"
+    },
+    {
+      "Id": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\wwwroot\\uploads\\f978c839-8cb4-4621-b6a7-1c890d3285a0_Screenshot 2023-09-14 at 4.31.23 PM.png",
+      "PackagePath": "staticwebassets\\uploads\\f978c839-8cb4-4621-b6a7-1c890d3285a0_Screenshot 2023-09-14 at 4.31.23 PM.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Travelogram.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Travelogram.props",
+      "PackagePath": "build\\Travelogram.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Travelogram.props",
+      "PackagePath": "buildMultiTargeting\\Travelogram.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Travelogram.props",
+      "PackagePath": "buildTransitive\\Travelogram.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,20 @@
+﻿@model Travelogram.ViewModels.UserProfileViewModel
+
+@{
+    ViewData["Title"] = "User Profile";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div>
+    <p><strong>Username:</strong> @Model.UserName</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+</div>
+
+<h3>Your Posts</h3>
+<ul>
+    @foreach (var post in Model.UserPosts)
+    {
+        <li>@post.Heading</li>
+    }
+</ul>

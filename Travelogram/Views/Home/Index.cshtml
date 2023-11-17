@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Travelogram.Models.Post>
+@{
+    ViewData["Title"] = "Travelogram - Explore the World Through Words";
+}
+
+<div class="container mt-5">
+    <header class="text-center mb-4">
+        <h1>Welcome to Travelogram</h1>
+        <p>Explore the world through the words of our passionate travelers and bloggers.</p>
+    </header>
+
+    <section class="search-section mb-5">
+        <form asp-controller="Home" asp-action="Index" method="get" class="form-inline justify-content-center">
+            <div class="form-group">
+                <input type="text" name="searchString" class="form-control mr-2" placeholder="Search by Name..." />
+            </div>
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+    </section>
+
+    <section class="posts-section">
+        @foreach (var item in Model)
+        {
+            <div class="post mb-4">
+                <h3>@Html.DisplayFor(modelItem => item.Heading)</h3>
+                <p>@Html.DisplayFor(modelItem => item.Content)</p>
+                <div class="actions">
+                    <a asp-controller="Posts" asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                </div>
+            </div>
+        }
+    </section>
+</div>

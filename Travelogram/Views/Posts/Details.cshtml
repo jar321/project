@@ -1,0 +1,128 @@
+@model Travelogram.Models.Post
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-header">
+            <h1>@Html.DisplayFor(model => model.Heading)</h1>
+        </div>
+        <div class="card-body">
+            <!-- Image Display -->
+            @if (!string.IsNullOrEmpty(Model.FileName))
+            {
+                <img class="post-image img-fluid mb-3" src="@Url.Content("~/uploads/" + Model.FileName)" alt="@Model.Heading" />
+            }
+
+            <!-- Content Display -->
+            <p class="lead">
+                @Html.DisplayFor(model => model.Content)
+            </p>
+
+            <!-- Like and Dislike Buttons -->
+            <div class="mt-3 mb-3 d-flex align-items-center">
+                <!-- ... [Same as before] ... -->
+            </div>
+
+            <!-- Additional Details -->
+            <p><strong>Author Name:</strong> @Html.DisplayFor(model => model.Fname)</p>
+        </div>
+    </div>
+
+    <!-- Actions -->
+    <div class="mt-3">
+        <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+    <!-- like and dislike button -->
+
+
+    <div class="mt-3 mb-3">
+        <form asp-action="Like" method="post" style="display: inline;">
+
+            <input type="hidden" name="id" value="@Model.Id" />
+            <button type="submit" class="btn btn-primary">
+                Like <span class="badge bg-secondary">@Model.Likes</span>
+            </button>
+        </form>
+        <form asp-action="Dislike" method="post" style="display: inline;">
+            <input type="hidden" name="id" value="@Model.Id" />
+            <button type="submit" class="btn btn-danger">
+                Dislike <span class="badge bg-secondary">@Model.Dislikes</span>
+            </button>
+        </form>
+    </div>
+
+    <!-- Comments Section -->
+    <div class="mt-4">
+        <h3>Comments</h3>
+        <ul class="list-group">
+            @foreach (var comment in Model.Comments)
+            {
+                <li class="list-group-item">
+                    <p>@comment.Content</p>
+                    @if (comment.User != null)
+                    {
+                        <small class="text-muted">Posted by @comment.User.UserName on @comment.DatePosted.ToShortDateString()</small>
+                    }
+                    else
+                    {
+                        <small class="text-muted">Comment posted by an unknown user</small>
+                    }
+                    <div class="mt-2">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            @if (User.Identity.Name == comment.User.UserName)
+                            {
+                                <a asp-action="EditComment" asp-route-id="@comment.Id" class="btn btn-sm btn-primary">Edit</a>
+                                <a asp-action="DeleteComment" asp-route-id="@comment.Id" class="btn btn-sm btn-danger">Delete</a>
+                            }
+                        }
+                    </div>
+                </li>
+            }
+        </ul>
+    </div>
+
+    <!-- Comment Form -->
+    @if (User.Identity.IsAuthenticated)
+    {
+        <div class="mt-4">
+            <h4>Add a Comment</h4>
+            <form asp-action="AddComment" method="post">
+                <div class="form-group">
+                    <textarea name="content" class="form-control" placeholder="Add a comment..."></textarea>
+                </div>
+                <input type="hidden" name="postId" value="@Model.Id" />
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    }
+
+
+    <!-- Comment form -->
+    <div class="mt-4">
+        <!-- ... [Same as before] ... -->
+    </div>
+</div>
+
+<style>
+    .post-image {
+        max-width: 60%; /* Adjust as necessary */
+        max-height: 400px; /* Adjust as necessary */
+        display: block;
+        margin: 0 auto; /* To center the image */
+        border-radius: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .like-btn, .dislike-btn {
+        transition: transform 0.2s;
+    }
+
+        .like-btn:hover, .dislike-btn:hover {
+            transform: scale(1.2);
+        }
+</style>

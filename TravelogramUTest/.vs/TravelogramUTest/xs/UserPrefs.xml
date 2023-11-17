@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{E30C10C7-1A42-40E6-9EED-2AC2889084C0}|Default">
+  <MonoDevelop.Ide.ItemProperties.TravelogramUTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelogramUTest/Controllers/PostsControllerTests.cs">
+    <Files>
+      <File FileName="TravelogramUTest/UnitTest1.cs" />
+      <File FileName="TravelogramUTest/Controllers/PostsControllerTests.cs" Line="86" Column="1" />
+      <File FileName="TravelogramUTest/Controllers/MockDbSetExtensions.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TravelogramUTest" expanded="True">
+            <Node name="TravelogramUTest" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="PostsControllerTests.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TravelogramUTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

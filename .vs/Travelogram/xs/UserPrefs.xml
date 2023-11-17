@@ -1,0 +1,83 @@
+﻿<Properties StartupConfiguration="{FAC92A3E-F342-4AAB-B9E3-85647146272E}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Travelogram PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Travelogram/Program.cs">
+    <Files>
+      <File FileName="Travelogram/Models/Post.cs" Line="24" Column="1" />
+      <File FileName="Travelogram/Models/comment.cs" />
+      <File FileName="Travelogram/Data/ApplicationDbContext.cs" />
+      <File FileName="Travelogram/Controllers/HomeController.cs" Line="37" Column="1" />
+      <File FileName="Travelogram/appsettings.json" />
+      <File FileName="Travelogram/Program.cs" Line="91" Column="25" />
+      <File FileName="Travelogram/Views/Posts/Index.cshtml" />
+      <File FileName="Travelogram/Views/Posts/Create.cshtml" Line="75" Column="14" />
+      <File FileName="Travelogram/Views/Posts/Details.cshtml" />
+      <File FileName="Travelogram/Controllers/PostsController.cs" Line="204" Column="1" />
+      <File FileName="Travelogram/Views/Shared/_Layout.cshtml" />
+      <File FileName="Travelogram/Views/Posts/Edit.cshtml" Line="31" Column="1" />
+      <File FileName="Travelogram/Properties/launchSettings.json" Line="14" Column="43" />
+      <File FileName="Travelogram/Views/Posts/Delete.cshtml" />
+      <File FileName="Travelogram/obj/Travelogram.csproj.EntityFrameworkCore.targets" />
+      <File FileName="Travelogram/Models/ErrorViewModel.cs" />
+      <File FileName="Travelogram/Views/Home/Index.cshtml" />
+      <File FileName="Travelogram/Views/Shared/_LoginPartial.cshtml" />
+      <File FileName="Travelogram/Areas/Identity/Pages/Account/Login.cshtml" Line="51" Column="58" />
+      <File FileName="Travelogram/Areas/Identity/Pages/Account/Manage/Index.cshtml" />
+      <File FileName="Travelogram/Views/Posts/MyPosts.cshtml" />
+      <File FileName="Travelogram/wwwroot/css/site.css" />
+      <File FileName="Travelogram/Models/UserProfileViewModel.cs" />
+      <File FileName="Travelogram/Controllers/UserController.cs" Line="31" Column="14" />
+      <File FileName="Travelogram/Views/User/Profile.cshtml" />
+      <File FileName="Travelogram/appsettings.Development.json" />
+      <File FileName="Travelogram/Views/Home/Privacy.cshtml" />
+      <File FileName="Travelogram/Areas/Identity/Pages/Account/Register.cshtml" />
+      <File FileName="Travelogram/Areas/Identity/Pages/Account/ExternalLogin.cshtml" Line="1" Column="1" />
+      <File FileName="Travelogram/Areas/Identity/Pages/Error.cshtml" Line="24" Column="1" />
+      <File FileName="Travelogram/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml" Line="1" Column="1" />
+      <File FileName="Travelogram/Areas/Identity/Pages/Account/Lockout.cshtml" Line="1" Column="1" />
+      <File FileName="Travelogram/Areas/Identity/Pages/Account/Register.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Travelogram/Areas/Identity/Pages/Account/Login.cshtml.cs" Line="8" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Travelogram" expanded="True">
+            <Node name="Travelogram" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True">
+                    <Node name="Account" expanded="True">
+                      <Node name="Login.cshtml" expanded="True" />
+                      <Node name="Register.cshtml" expanded="True" />
+                      <Node name="ResetPasswordConfirmation.cshtml" expanded="True" />
+                    </Node>
+                    <Node name="Error.cshtml" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Posts" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <DisabledProjects>
+    <String>TravelogramXUnit/TravelogramXUnit.csproj</String>
+  </DisabledProjects>
+</Properties>
