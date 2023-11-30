@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\Travelogram.csproj": {}
+    "C:\\Users\\arpit\\OneDrive\\Desktop\\Sindhuja Project\\ENPM809WFall2023Project-sane\\Travelogram\\Travelogram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\Travelogram.csproj": {
+    "C:\\Users\\arpit\\OneDrive\\Desktop\\Sindhuja Project\\ENPM809WFall2023Project-sane\\Travelogram\\Travelogram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\Travelogram.csproj",
+        "projectUniqueName": "C:\\Users\\arpit\\OneDrive\\Desktop\\Sindhuja Project\\ENPM809WFall2023Project-sane\\Travelogram\\Travelogram.csproj",
         "projectName": "Travelogram",
-        "projectPath": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\Travelogram.csproj",
-        "packagesPath": "C:\\Users\\sindh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\obj\\",
+        "projectPath": "C:\\Users\\arpit\\OneDrive\\Desktop\\Sindhuja Project\\ENPM809WFall2023Project-sane\\Travelogram\\Travelogram.csproj",
+        "packagesPath": "C:\\Users\\arpit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arpit\\OneDrive\\Desktop\\Sindhuja Project\\ENPM809WFall2023Project-sane\\Travelogram\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sindh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\arpit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,6 +70,12 @@
               "target": "Package",
               "version": "[7.0.10, )"
             },
+            "SecurityCodeScan.VS2019": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.6.7, )"
+            },
             "System.Text.Json": {
               "target": "Package",
               "version": "[7.0.3, )"
@@ -98,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

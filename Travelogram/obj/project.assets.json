@@ -2470,6 +2470,9 @@
           }
         }
       },
+      "SecurityCodeScan.VS2019/5.6.7": {
+        "type": "package"
+      },
       "SQLitePCLRaw.bundle_e_sqlite3/2.1.4": {
         "type": "package",
         "dependencies": {
@@ -7891,6 +7894,22 @@
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
       ]
     },
+    "SecurityCodeScan.VS2019/5.6.7": {
+      "sha512": "WIE9RJswdSc2j+rLz2gW6U+gMUjMHzY2j7C/CL8/R2olXNM/+twarfMnWqm+rZodDBvaYDApJyxM8mVYf9FGrQ==",
+      "type": "package",
+      "path": "securitycodescan.vs2019/5.6.7",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/SecurityCodeScan.VS2019.dll",
+        "analyzers/dotnet/YamlDotNet.dll",
+        "securitycodescan.vs2019.5.6.7.nupkg.sha512",
+        "securitycodescan.vs2019.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
     "SQLitePCLRaw.bundle_e_sqlite3/2.1.4": {
       "sha512": "EWI1olKDjFEBMJu0+3wuxwziIAdWDVMYLhuZ3Qs84rrz+DHwD00RzWPZCa+bLnHCf3oJwuFZIRsHT5p236QXww==",
       "type": "package",
@@ -11942,28 +11961,24 @@
       "Microsoft.EntityFrameworkCore.Sqlite >= 7.0.12",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.12",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.10",
+      "SecurityCodeScan.VS2019 >= 5.6.7",
       "System.Text.Json >= 7.0.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sindh\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\arpit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\Travelogram.csproj",
+      "projectUniqueName": "C:\\Users\\arpit\\OneDrive\\Desktop\\Sindhuja Project\\ENPM809WFall2023Project-sane\\Travelogram\\Travelogram.csproj",
       "projectName": "Travelogram",
-      "projectPath": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\Travelogram.csproj",
-      "packagesPath": "C:\\Users\\sindh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sindh\\Desktop\\Travelogram\\Travelogram\\Travelogram\\obj\\",
+      "projectPath": "C:\\Users\\arpit\\OneDrive\\Desktop\\Sindhuja Project\\ENPM809WFall2023Project-sane\\Travelogram\\Travelogram.csproj",
+      "packagesPath": "C:\\Users\\arpit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arpit\\OneDrive\\Desktop\\Sindhuja Project\\ENPM809WFall2023Project-sane\\Travelogram\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\sindh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\arpit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12019,6 +12034,12 @@
             "target": "Package",
             "version": "[7.0.10, )"
           },
+          "SecurityCodeScan.VS2019": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[5.6.7, )"
+          },
           "System.Text.Json": {
             "target": "Package",
             "version": "[7.0.3, )"
@@ -12043,7 +12064,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
